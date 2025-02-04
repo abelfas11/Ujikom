@@ -13,6 +13,9 @@ body {
   background: #ecf0f3;
 }
 
+.Separated {
+  margin-bottom: 10px;
+}
 /* Wrapper styling */
 .wrapper {
   max-width: 350px;
